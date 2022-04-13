@@ -4,7 +4,7 @@
 
 
 
-1) Auto emailer to parents to exercise
+1) Auto emailer to parents reminders to exercise
 
 2) Autoemailer and scraper for fun facts
 
