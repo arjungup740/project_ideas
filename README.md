@@ -1,6 +1,6 @@
 # Project Ideas
 
-## Just a raw dump
+## Just a brain dump of things we'd like to work on down the line
 
 
 
